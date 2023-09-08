@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://luistidus.netlify.app/categories/</loc>
   </url><url>
-    <loc>/tags/evernote/</loc>
+    <loc>https://luistidus.netlify.app/tags/evernote/</loc>
   </url><url>
-    <loc>/tags/felipe/</loc>
+    <loc>https://luistidus.netlify.app/tags/felipe/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://luistidus.netlify.app/</loc>
   </url><url>
-    <loc>/post/minhas-reflex%C3%B4es/</loc>
+    <loc>https://luistidus.netlify.app/post/minhas-reflex%C3%B4es/</loc>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://luistidus.netlify.app/post/</loc>
   </url><url>
-    <loc>/tags/reflexao/</loc>
+    <loc>https://luistidus.netlify.app/tags/reflexao/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://luistidus.netlify.app/tags/</loc>
   </url>
 </urlset>
