@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: "true"
 Title: Marilyn Manson e União entre o Mundo e o Eu
 ---
 
