@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>algumdiatalvez on Felipe Blog</title>
+    <link>https://luistidus.netlify.app/tags/algumdiatalvez/</link>
+    <description>Recent content in algumdiatalvez on Felipe Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language><atom:link href="https://luistidus.netlify.app/tags/algumdiatalvez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>no banheiro</title>
+      <link>https://luistidus.netlify.app/post/no-banheiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luistidus.netlify.app/post/no-banheiro/</guid>
+      <description>[testes] Pretendo revisar a ortografia e passar para o ingles. Depois quero postar no [[Medium]] Não se esqueça que seria bem legal um titulo irônico ou sarcástico que a [[LLM]] pode me ajudar a encontrar
+Eu estou aqui na minha mãe dentro do banheiro. Sempre gostei do banheiro. Sempre me pareceu um lugar injustiçado, há sempre um grau de desconfiança de quem fica muito tempo no banheiro. É esperado que o banheiro seja usado rapidamente quase com um sorriso amarelo de quem acabou de esbarrar com alguém.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: "false"
 publicado em: 2023-09-08
 tags:
 - reflexao

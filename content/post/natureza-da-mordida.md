@@ -1,9 +1,8 @@
 ---
 aliases:
 - a vida não é confiável
-draft: "true"
+draft: "false"
 Livro: A natureza da mordida
-publicado em: 2023-09-08
 tags:
 - citação
 Title: A Natureza da Mordida

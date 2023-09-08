@@ -1,12 +1,13 @@
 ---
 draft: "false"
+publicado em: 2023-09-08
 tags:
 - evernote
 - Felipe
 - reflexao
 Title: Minha Reflexões
 ---
-- [observadora da vida](/post/Observadora-da-vida)
+- [observadora da vida](/post/observadora-da-vida)
 - [juro que estou me esforçando](/post/juro-que-estou-me-esforçando/)
 - [no banheiro](/post/no-banheiro)
 - [Marilyn Manson e União Entre o mundo e o eu](/post/marilyn-manson-e-união-entre-o-mundo-e-o-eu/)
